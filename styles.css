@@ -1,0 +1,9 @@
+h2 {
+    color: brown;
+    padding: 0%;
+    width: auto;
+    height: auto;
+    align-self: start;
+    font-family: 'Cascadia Code', monospace;
+    font-size: medium;
+}
