@@ -1,3 +1,5 @@
+document.write("Escribo desde el .js");
+
 const multiply = (a, b) => {
     let result = 0;
     const positive = Math.abs(b) == b;
